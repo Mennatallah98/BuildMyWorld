@@ -4,8 +4,8 @@
 
 ## Overview
 This project is the first project in Udacity Robotics Software Engineer nano degree and it includes three important elements : <br>
-	&emsp; &emsp; - A buliding that is shown in the photos below <br>
-	&emsp; &emsp; - A robot model that is shown in the photos below <br>
+	&emsp; &emsp; - A buliding that is shown in the photos above <br>
+	&emsp; &emsp; - A robot model that is shown in the photos above <br>
 	&emsp; &emsp; - A plugin that prints welcome to menna's world when running the world <br>
 
 
