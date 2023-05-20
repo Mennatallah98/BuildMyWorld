@@ -1,4 +1,4 @@
-//print heelo world as the simulation starts
+//print hello world as the simulation starts
 #include <gazebo/gazebo.hh>
 
 namespace gazebo

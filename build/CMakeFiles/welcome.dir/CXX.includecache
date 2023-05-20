@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/mennatallah/Robotics_ND/Task1/script/welcome.cpp
+/home/mennatallah/nanodegree_ws/project_1/BuildMyWorld/script/welcome.cpp
 gazebo/gazebo.hh
 -
 
