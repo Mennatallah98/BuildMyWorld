@@ -13,7 +13,7 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 
 **Author: Mennatallah Aly<br />**
 
-The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04.
+The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04. an Gazebo 9.0.0
 
 
 ### Building from Source
@@ -21,22 +21,40 @@ The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04.
 #### Dependencies
 
 - [Gazebo](https://gazebosim.org/home) (Simulation program)
-
+- [Git]
 
 ## Uasge steps
 
 clone the latest version from this repository 
 
 	git clone https://github.com/Mennatallah98/BuildMyWorld.git
+	
+check your system is up to date
+
+	sudo apt uodate
 
 Delete the build folder
 
 	cd BuildMyWorld
 	rm -r build
 
-create a new buiild folder
+Create a new buiild folder
 
 	mkdir build
 	cd build
 	cmake ../
 	make
+	
+Export the plugin
+
+	export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}=:{PATH_TO_REPOSITORY}/BuildMyWorld/build
+	
+Open the world
+	
+	cd..
+	cd world
+	gazebo myworld
+	
+	
+
+
