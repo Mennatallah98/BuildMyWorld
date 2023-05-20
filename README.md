@@ -21,7 +21,7 @@ The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04.
 #### Dependencies
 
 - [Robot Operating System (ROS)](http://wiki.ros.org) (middleware for robotics),
-- [Gazebo] (https://gazebosim.org/home) (Simulation program)
+- [Gazebo](https://gazebosim.org/home) (Simulation program)
 
 	sudo rosdep install --from-paths src
 
