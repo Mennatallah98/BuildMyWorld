@@ -9,10 +9,7 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 	&emsp; &emsp; - A plugin that prints welcome to menna's world when running the world <br>
 
 
-**Keywords:** Gazebo
-
-Or, add some keywords to the Bitbucket or GitHub repository.
-
+**Keywords:** Gazebo, Robotics, Udacity
 
 **Author: Mennatallah Aly<br />**
 
