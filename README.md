@@ -2,9 +2,9 @@
 
 ## Overview
 This project includes three important elements : <br>
-	&emsp; - A buliding that is shown in the photos below <br>
-	> A robot model that is shown in the photos below <br>
-	> A plugin that prints welcome to menna's world when running the world <br>
+	&emsp; &emsp; - A buliding that is shown in the photos below <br>
+	&emsp; &emsp; - A robot model that is shown in the photos below <br>
+	&emsp; &emsp; - A plugin that prints welcome to menna's world when running the world <br>
 
 
 **Keywords:** example, package, template
