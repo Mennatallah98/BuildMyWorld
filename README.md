@@ -15,25 +15,6 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 
 The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04.
 
-[![Build Status](http://rsl-ci.ethz.ch/buildStatus/icon?job=ros_best_practices)](http://rsl-ci.ethz.ch/job/ros_best_practices/)
-
-
-![Example image](doc/example.jpg)
-
-
-### Publications
-
-If you use this work in an academic context, please cite the following publication(s):
-
-* P. Fankhauser, M. Bloesch, C. Gehring, M. Hutter, and R. Siegwart: **PAPER TITLE**. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2015. ([PDF](http://dx.doi.org/10.3929/ethz-a-010173654))
-
-        @inproceedings{Fankhauser2015,
-            author = {Fankhauser, P\'{e}ter and Hutter, Marco},
-            booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-            title = {{PAPER TITLE}},
-            publisher = {IEEE},
-            year = {2015}
-        }
 
 
 ## Installation
