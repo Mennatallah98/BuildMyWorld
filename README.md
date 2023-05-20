@@ -1,5 +1,7 @@
 # BuildMyWorld
 
+![Example image](world.png)
+
 ## Overview
 This project is the first project in Udacity Robotics Software Engineer nano degree and it includes three important elements : <br>
 	&emsp; &emsp; - A buliding that is shown in the photos below <br>
