@@ -55,21 +55,21 @@ Open the world
 	
 ## Structure
 
-└── BuildMyWorld
-    ├── CMakeLists.txt
-    ├── model
-    │   ├── Building
-    │   │   └── myworld
-    │   │       ├── model.config
-    │   │       └── model.sdf
-    │   └── Robot
-    │       └── myrobot
-    │           ├── model.config
-    │           └── model.sdf
-    ├── script
-    │   └── welcome.cpp
-    ├── world
-    │   └── myworld
+	└── BuildMyWorld
+	    ├── CMakeLists.txt
+	    ├── model
+	    │   ├── Building
+	    │   │   └── myworld
+	    │   │       ├── model.config
+	    │   │       └── model.sdf
+	    │   └── Robot
+	    │       └── myrobot
+	    │           ├── model.config
+	    │           └── model.sdf
+	    ├── script
+	    │   └── welcome.cpp
+	    ├── world
+	    └──    └── myworld
 
 
 
