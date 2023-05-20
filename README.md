@@ -22,19 +22,19 @@ The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04.
 
 - [Gazebo](https://gazebosim.org/home) (Simulation program)
 
-#### Building
 
-To build from source, clone the latest version from this repository 
+## Uasge steps
 
-	git clone https://github.com/ethz-asl/ros_best_practices.git
+clone the latest version from this repository 
 
-## Usage
+	git clone https://github.com/Mennatallah98/BuildMyWorld.git
 
-Describe the quickest way to run this software, for example:
+Delete the build folder
 
-Run the main node with
+	cd BuildMyWorld
+	rm -r build
+	
 
-	roslaunch ros_package_template ros_package_template.launch
 
 ## Config files
 
