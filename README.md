@@ -2,10 +2,10 @@
 
 ## Overview
 This project includes three important elements : <br>
-	- A buliding that is shown in the photos below <br>
-	- A robot model that is shown in the photos below <br>
-	- A plugin that prints welcome to menna's world when running the world <br>
-I built a floor using a building editor also a robot and connected it using joints in model editor also imported a model from the online library I also wrote a plugin that prints welcome to menna's world when running the world
+	> A buliding that is shown in the photos below <br>
+	> A robot model that is shown in the photos below <br>
+	> A plugin that prints welcome to menna's world when running the world <br>
+
 
 **Keywords:** example, package, template
 
