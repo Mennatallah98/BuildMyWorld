@@ -16,9 +16,7 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04. an Gazebo 9.0.0
 
 
-### Building from Source
-
-#### Dependencies
+### Dependencies
 
 - [Gazebo](https://gazebosim.org/home) (Simulation program)
 - [Git]
@@ -55,6 +53,26 @@ Open the world
 	cd world
 	gazebo myworld
 	
-	
+## Structure
+
+└── BuildMyWorld
+    ├── CMakeLists.txt
+    ├── model
+    │   ├── Building
+    │   │   └── myworld
+    │   │       ├── model.config
+    │   │       └── model.sdf
+    │   └── Robot
+    │       └── myrobot
+    │           ├── model.config
+    │           └── model.sdf
+    ├── script
+    │   └── welcome.cpp
+    ├── world
+    │   └── myworld
+
+
+
+
 
 
