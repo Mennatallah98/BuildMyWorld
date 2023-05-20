@@ -56,8 +56,8 @@ Open the world
 ## Structure
 
 	└── BuildMyWorld
-	    ├── CMakeLists.txt
-	    ├── model
+	    ├── CMakeLists.txt               # Link libraries 
+	    ├── model                        # Model files 
 	    │   ├── Building
 	    │   │   └── myworld
 	    │   │       ├── model.config
@@ -66,9 +66,9 @@ Open the world
 	    │       └── myrobot
 	    │           ├── model.config
 	    │           └── model.sdf
-	    ├── script
+	    ├── script                      # Gazebo World plugin C++ script
 	    │   └── welcome.cpp
-	    ├── world
+	    ├── world                       # Gazebo main World containing 
 	    └──    └── myworld
 
 
