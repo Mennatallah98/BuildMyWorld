@@ -19,7 +19,6 @@ The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04. an
 ### Dependencies
 
 - [Gazebo](https://gazebosim.org/home) (Simulation program)
-- [Git]
 
 ## Uasge steps
 
