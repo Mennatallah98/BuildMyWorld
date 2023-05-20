@@ -13,16 +13,10 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 
 Or, add some keywords to the Bitbucket or GitHub repository.
 
-### License
 
-The source code is released under a [BSD 3-Clause license](ros_package_template/LICENSE).
+**Author: Mennatallah Aly<br />
 
-**Author: Péter Fankhauser<br />
-Affiliation: [ANYbotics](https://www.anybotics.com/)<br />
-Maintainer: Péter Fankhauser, pfankhauser@anybotics.com**
-
-The PACKAGE NAME package has been tested under [ROS] Indigo, Melodic and Noetic on respectively Ubuntu 14.04, 18.04 and 20.04.
-This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
+The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04.
 
 [![Build Status](http://rsl-ci.ethz.ch/buildStatus/icon?job=ros_best_practices)](http://rsl-ci.ethz.ch/job/ros_best_practices/)
 
