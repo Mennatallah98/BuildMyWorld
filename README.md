@@ -16,25 +16,12 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04.
 
 
-
-## Installation
-
-### Installation from Packages
-
-To install all packages from the this repository as Debian packages use
-
-    sudo apt-get install ros-noetic-...
-    
-Or better, use `rosdep`:
-
-	sudo rosdep install --from-paths src
-
 ### Building from Source
 
 #### Dependencies
 
 - [Robot Operating System (ROS)](http://wiki.ros.org) (middleware for robotics),
-- [Eigen] (linear algebra library)
+- [Gazebo] (https://gazebosim.org/home) (Simulation program)
 
 	sudo rosdep install --from-paths src
 
