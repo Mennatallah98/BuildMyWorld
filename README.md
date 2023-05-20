@@ -7,7 +7,7 @@ This project includes three important elements : <br>
 	&emsp; &emsp; - A plugin that prints welcome to menna's world when running the world <br>
 
 
-**Keywords:** example, package, template
+**Keywords:** Gazebo
 
 Or, add some keywords to the Bitbucket or GitHub repository.
 
