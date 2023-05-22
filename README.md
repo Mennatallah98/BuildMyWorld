@@ -26,7 +26,7 @@ clone the latest version from this repository
 	
 check your system is up to date
 
-	sudo apt uodate
+	sudo apt update
 
 Delete the build folder
 
