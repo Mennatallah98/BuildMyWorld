@@ -18,10 +18,6 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 The BuildMyWorld package has been tested under [ROS] Melodic on Ubuntu 18.04. an Gazebo 9.0.0
 
 
-### Dependencies
-
-- [Gazebo](https://gazebosim.org/home) (Simulation program)
-
 ## Uasge steps
 
 clone the latest version from this repository 
