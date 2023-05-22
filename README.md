@@ -15,7 +15,7 @@ This project is the first project in Udacity Robotics Software Engineer nano deg
 
 **Author: Mennatallah Aly<br />**
 
-The PACKAGE NAME package has been tested under [ROS] Melodic on Ubuntu 18.04. an Gazebo 9.0.0
+The BuildMyWorld package has been tested under [ROS] Melodic on Ubuntu 18.04. an Gazebo 9.0.0
 
 
 ### Dependencies
